@@ -20,15 +20,32 @@ body {
 h2 {
     color: darkolivegreen;
 }
-.rug {
+a {
     color: sienna;
 }
 img {
     display: block;
-    margin-left: 20%;
+    margin-left: 25%;
     margin-right: 50%;
-    width: 800px;
+    width: 700px;
 }
 span{
     color: olive;
+}
+article {
+    color: darkgreen;
+    background-color: white;
+}
+.blog {
+    background-color: beige ;
+}
+header {
+    border-bottom-style: solid;
+    border-bottom-color: sienna;
+}
+
+nav,footer {
+    display: block;
+    padding-left: 10px;
+    background-color: moccasin;
 }
