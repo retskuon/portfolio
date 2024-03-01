@@ -1,0 +1,34 @@
+h1 {
+    color: sandybrown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    size: 200px;
+    padding: 10px;
+    background-color: darkolivegreen;
+}
+div {
+    float: right;
+    color: darkgreen;
+    padding: 20px;
+    background-color: beige;
+    
+}
+body {
+    color: olivedrab;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+h2 {
+    color: darkolivegreen;
+}
+.rug {
+    color: sienna;
+}
+img {
+    display: block;
+    margin-left: 20%;
+    margin-right: 50%;
+    width: 800px;
+}
+span{
+    color: olive;
+}
